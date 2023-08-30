@@ -11,9 +11,6 @@ To learn a different aspect of Linux and low-level programming using a practical
 
 When you want to bulk copy or move particular sets of files (in this case files that match particular sets of extensions) from the source directory to the destination directory, ncpmvdir.c is a useful program to do that.
 
-
-## ncpmvdir.c
-
 This program can be used to copy or move a directory tree rooted at a specific path in the home directory to a specific destination directory in the home directory minus the file types specified in the extension list.
 
 
